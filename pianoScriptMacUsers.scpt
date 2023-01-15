@@ -1,0 +1,1 @@
+activate application "plugin-container"set s to "euoyuoetusauotyuodgdadgti"set n to length of sset i to 1delay 5repeat n times	set a to character i of s	tell application "System Events" to keystroke a using command down	delay 0.5	set i to i + 1end repeat
